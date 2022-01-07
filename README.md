@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jonathan,
+- 👀 I’m interested in programming and web development
+- 🌱 I’m currently learning C and Python at CS50
+- 💞️ I’m looking to collaborate with anyone starting out
+- 📫 Reach me at jonaisroy@gmail.com
